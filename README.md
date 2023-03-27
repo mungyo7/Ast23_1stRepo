@@ -2,7 +2,7 @@
 
 <h1>APTP 2023 - {TeamName}</h1>
 <h6>Asterisk Programming Team Project 2023</h6>
-<h4>Team Members: 서문교 | 2 | 3 | 4 | 5 </h4>
+<h4>Team Members: 서문교 | 박동재 | 박성제 | 김현수 | 강찬수 </h4>
 
 <h2>1. 주제 </h2>
 연세대학교 학생들의 편리한 생활을 위한 통합 프로그램
